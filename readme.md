@@ -1,8 +1,10 @@
-# Olá, me Renata! :D
+# Olá, me chamo Renata! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/RehMarNo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/renata-marques-959561175/)
-[![Instagram Logo](./img/instagram.jpg)](https://www.instagram.com/rehmarquesdl/) 
+<a href="https://www.instagram.com/rehmarquesdl/">
+    <img src="./img/instagram.jpg" alt="Instagram">
+</a> 
 
 ### About me
 Sou uma estudante buscando a minha primeira oportunidade como Dev Frontend Junior
