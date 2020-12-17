@@ -14,7 +14,20 @@
 ### About me
 Sou uma estudante buscando a minha primeira oportunidade como Dev Frontend Junior
 
-### Soft Skils
+### Soft Skills
+<ol type="I"> 
+    <li>Empatia</li>
+    <li>Trabalho em Equipe</li>
+    <li>Paciência</li>
+    <li>Criatividade</li>
+    <li>Observadora</li>
+</ol>
 
-
-### Hard Skils
+### Hard Skills
+<ol type="I"> 
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>Java</li>
+</ol>
