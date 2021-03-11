@@ -28,6 +28,6 @@ Sou uma estudante buscando a minha primeira oportunidade como Dev Frontend Junio
     <li>HTML</li>
     <li>CSS</li>
     <li>JavaScript</li>
-    <li>Python</li>
     <li>Java</li>
+    <li>Python</li>
 </ol>
