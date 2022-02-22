@@ -12,7 +12,7 @@
 </a> 
 
 ### About me
-Sou uma estudante buscando a minha primeira oportunidade como Dev Frontend Junior
+Sou uma estudante buscando a minha primeira oportunidade como Deva Junior
 
 ### Soft Skills
 <ol type="I"> 
