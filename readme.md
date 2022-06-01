@@ -12,7 +12,7 @@
 </a> 
 
 ### About me
-Sou uma estudante buscando a minha primeira oportunidade como Deva Junior
+Sou uma estudante(4/4) atuando como Analista Java Jr
 
 ### Soft Skills
 <ol type="I"> 
@@ -25,9 +25,10 @@ Sou uma estudante buscando a minha primeira oportunidade como Deva Junior
 
 ### Hard Skills
 <ol type="I"> 
-    <li>HTML</li>
-    <li>CSS</li>
+    <li>HTML/CSS</li>
     <li>JavaScript</li>
+    <li>Angular</li>
+    <li>NodeJS</li>
     <li>Java</li>
-    <li>Python</li>
+    <li>Jasmine</li>
 </ol>
